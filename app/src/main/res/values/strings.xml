@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">네이버 영화검색</string>
+    <string name="search_button">검색</string>
+    <string name="action_settings">Settings</string>
+    <string name="s_empty_view">찾는 영화가 없습니다</string>
+    <string name="d_empty_view">블로그가 없습니다</string>
+    <string name="no_title">제목 없음</string>
+    <string name="no_subtitle">부제 없음</string>
+    <string name="no_director">제작자 정보 없음</string>
+    <string name="no_description">블로그 소개 없음</string>
+    <string name="no_blogger">블로거 이름 정보 없음</string>
+    <string name="blog_search_result">블로그 검색결과</string>
+    <string name="subtitle">부제</string>
+    <string name="user_rating">평점 ★</string>
+    <string name="pub_date">개봉</string>
+    <string name="director">감독</string>
+    <string name="actor">배우</string>
+
+</resources>
