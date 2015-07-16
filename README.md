@@ -1,2 +1,2 @@
-# AndroidBasic
-first step into the android world! 
+# MovieSearchApplication
+android 첫번째 실습.
